@@ -6,5 +6,5 @@ author:
 
 # 테마
 show_downloads: true
-logo: 
+logo: /assets/img/datarichard.png
 theme: jekyll-theme-minimal
