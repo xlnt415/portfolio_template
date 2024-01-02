@@ -48,7 +48,7 @@
 ------
 
 
-![MMM](assets/img/MMM.jpg)
+![MMM](assets/img/MMM.png)
 [Marketing Mix Modeling](code/MMM/lightweight_mmm.ipynb)
 
 - MMM모델 중 구글에서 개발한 오픈소스인 Lightweight MMMM을 사용하여 MMM의 프로세스를 파악해봤습니다.
@@ -58,5 +58,4 @@
 ------
 
 
-[SideProject : 인테리업과 새로운 가구유형과 특징 발견하기 - 현재 진행 중]
-[SideProject_1](code/side_project/인테리어와 새로운 가구.ipynb)
+[SideProject : 인테리업과 새로운 가구유형과 특징 발견하기 - 현재 진행 중](code/side_project/인테리어와 새로운 가구.ipynb)
