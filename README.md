@@ -59,4 +59,4 @@
 
 
 [SideProject : 인테리업과 새로운 가구유형과 특징 발견하기 - 현재 진행 중]
-[Marketing Mix Modeling](code/side_project/인테리어와 새로운 가구.ipynb)
+[SideProject_1](code/side_project/인테리어와 새로운 가구.ipynb)
