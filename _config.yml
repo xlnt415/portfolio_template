@@ -1,10 +1,10 @@
 # 웹사이트 이름
-title: 데이터 포트폴리오
+title: 우수한 포트폴리오
 
 # 웹사이트 주인
 author: Woosuhan
 
 # 테마
-show_downloads: true
-logo: /assets/img/datarichard.png
+show_downloads: False
+logo: /assets/img/내사진.jpg
 theme: jekyll-theme-minimal
